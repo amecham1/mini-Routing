@@ -1,1 +1,1 @@
-angular.module("miniRouting",[]);
+angular.module("miniRouting",["ui.router"]);
